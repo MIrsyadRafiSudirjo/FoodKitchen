@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodKitchen</string>
+    <string name="name">Muhamad Irsyad Rafi Sudirjo</string>
+    <string name="email">muhamad.sudirjo@binus.ac.id</string>
+    <string name="food_Name">Food Name</string>
+    <string name="price">Price</string>
+    <string name="details">Details</string>
+</resources>
